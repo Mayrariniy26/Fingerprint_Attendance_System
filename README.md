@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **SMART ATTENDANCE SYSTEM USING FINGERPRINT RECOGNITION** 
 
 ## *System Architecture*
@@ -184,3 +185,7 @@ You Can Refer my React web App also . I Use Bluetooth API for get IDs.But I unde
 ![Screenshot 2024-08-22 230309](https://github.com/user-attachments/assets/d87d3760-3a1e-46a1-b822-e59f315e517d)
 
 
+=======
+# Fingerprint_Attendance_System
+A biometric attendance system utilizing fingerprint recognition for secure and efficient attendance tracking. This project leverages an AS608 fingerprint sensor with an Arduino UNO microcontroller, real-time clock module, LCD, and Bluetooth connectivity, making it suitable for small to medium-sized attendance management solutions.
+>>>>>>> 79aec2d9733567465d397f543a0f02f6da62b632
